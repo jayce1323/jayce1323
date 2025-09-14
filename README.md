@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <!--
 **jayce1323/jayce1323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
