@@ -1,5 +1,6 @@
 ## Hi 👋
 
+I am a freshman in the Department of Artificial Intelligence at Gachon University, Class of 2025.
 <!--
 **jayce1323/jayce1323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
